@@ -1,0 +1,16 @@
+{
+  "name": "jq-robot.com",
+  "version": "1.0.0",
+  "description": "company web",
+  "author": "Xiaoyu Ma <x.ma@maxiaoyu.com>",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
